@@ -1,0 +1,1 @@
+A simple Hangman game developed in Ruby where the player tries to guess a hidden word by entering letters one by one. The game tracks correct and incorrect guesses and allows the player to continue until the word is guessed or all attempts are used. The project was created to practice basic Ruby programming, loops, conditions, arrays, and user input.
